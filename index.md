@@ -15,4 +15,4 @@ My interests include applications of machine learning, entrepreneurship, running
 
 CV: [link]({{ site.url }}/assets/cv.pdf)  
 Resume: [link]({{ site.url }}/assets/resume.pdf)  
-Email ID: \<firstname>swag\<lastname>@gmail.com
+Email ID: [tathagatswagverma@gmail.com](mailto:tathagatswagverma@gmail.com)
