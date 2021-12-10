@@ -3,7 +3,7 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 35%; padding: 6px;" src=" {{ site.url }}/assets/homepage.jpg">
+<img style="float: right; width: 25%; padding: 9px;" src=" {{ site.url }}/assets/profile_pic1.jpg">
 
 Hi, I am Tathagat Verma, doing my final year BTech in Computer Science and Engineering at [IIT Bombay](https://www.cse.iitb.ac.in/). 
 
