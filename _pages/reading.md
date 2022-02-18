@@ -8,10 +8,11 @@ I enjoy reading biographies and books related to business and self-development. 
 
 ### In progress
 
-1. [Principles: Life and Work](https://www.amazon.in/Principles-Life-Work-Ray-Dalio/dp/1501124021)
-2. [The Art of Innovation: Lessons in Creativity from IDEO, America's Leading Design Firm](https://www.amazon.in/Art-Innovation-Lessons-Creativity-Americas/dp/0385499841)
-3. [Benjamin Franklin: An American Life](https://www.amazon.in/Benjamin-Franklin-American-Walter-Isaacson/dp/074325807X)
-4. [Unlimited Power: The New Science Of Personal Achievement](https://www.amazon.in/Unlimited-Power-Science-Personal-Achievement/dp/0684845776)
+1. [Will](https://www.amazon.in/Will-EXPORT-Smith/dp/1529124166/ref=sr_1_1?keywords=will+smith+book&qid=1645193050&s=books&sprefix=will+%2Cstripbooks%2C227&sr=1-1)
+2. [Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World](https://www.amazon.in/Blockchain-Revolution-Technology-Cryptocurrencies-Changing/dp/0241237866/ref=sr_1_3?keywords=blockchain+revolution&qid=1645192990&sprefix=blockchain+%2Caps%2C193&sr=8-3)
+3. [Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant](https://www.amazon.in/gp/product/1625274491/ref=ox_sc_act_title_1?smid=APLYOO3IHSCW0&psc=1)
+4. [Benjamin Franklin: An American Life](https://www.amazon.in/Benjamin-Franklin-American-Walter-Isaacson/dp/074325807X)
+5. [Unlimited Power: The New Science Of Personal Achievement](https://www.amazon.in/Unlimited-Power-Science-Personal-Achievement/dp/0684845776)
 
 ### Completed
 
@@ -33,11 +34,14 @@ I enjoy reading biographies and books related to business and self-development. 
 16. [How to Win at the Sport of Business: If I Can Do It, You Can Do It](https://www.amazon.in/How-Win-Sport-Business-Can/dp/1626810915)
 17. [Ego is the Enemy: The Fight to Master Our Greatest Opponent](https://www.amazon.in/Ego-Enemy-Ryan-Holiday/dp/1781257019)
 18. [You'll See It When You Believe It](https://www.amazon.in/Youll-See-When-You-Believe/dp/0099474298)
+19. [The Art of Innovation: Lessons in Creativity from IDEO, America's Leading Design Firm](https://www.amazon.in/Art-Innovation-Lessons-Creativity-Americas/dp/0385499841)
+20. [Hooked: How to Build Habit-Forming Products](https://www.amazon.in/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00NW01MKM)
+21. [Principles: Life and Work](https://www.amazon.in/Principles-Life-Work-Ray-Dalio/dp/1501124021)
+22. [Sapiens: A Brief History of Humankind](https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085/ref=sr_1_2?keywords=sapiens&qid=1645193124&s=books&sprefix=sapiens%2Cstripbooks%2C183&sr=1-2)
+23. [Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future](https://www.amazon.in/Elon-Musk-Billionaire-SpaceX-Shaping/dp/0753555646/ref=sr_1_2?keywords=elon+musk+book&qid=1645193160&s=books&sprefix=elon+m%2Cstripbooks%2C186&sr=1-2)
 
 ### On my radar
 
-1. [Hooked: How to Build Habit-Forming Products](https://www.amazon.in/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00NW01MKM)
+1. [Titan: The Life of John D. Rockefeller, Sr.](https://www.amazon.in/Titan-Life-John-Rockefeller-Sr/dp/1400077303/ref=sr_1_3?keywords=titan+book&qid=1645193205&s=books&sprefix=titan+%2Cstripbooks%2C184&sr=1-3)
 2. [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.in/No-Rules-Netflix-Culture-Reinvention/dp/1984877860)
 3. [High Output Management](https://www.amazon.in/High-Output-Management-Andrew-Grove/dp/0679762884)
-4. [Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant](https://www.amazon.in/gp/product/1625274491/ref=ox_sc_act_title_1?smid=APLYOO3IHSCW0&psc=1)
-5. [My Life in Full: Work, Family, and Our Future](https://www.amazon.in/My-Life-Full-special-Epilogue/dp/9389253810)
