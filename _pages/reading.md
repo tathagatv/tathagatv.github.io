@@ -53,4 +53,3 @@ I enjoy reading biographies and books related to business and self-development. 
 4. [Meditations](https://www.amazon.in/gp/product/8175994754/ref=ox_sc_saved_image_1?smid=A1WYWER0W24N8S&psc=1)
 5. [Principles for Dealing With The Changing World Order: Why Nations Succeed or Fail](https://www.amazon.in/gp/product/1471196690/ref=ox_sc_saved_image_2?smid=A108GDP84TT7QO&psc=1)
 6. [Antifragile: Things that Gain from Disorder](https://www.amazon.in/gp/product/0141038225/ref=ox_sc_saved_image_9?smid=A3H3WE9M6NY1KV&psc=1)
-
