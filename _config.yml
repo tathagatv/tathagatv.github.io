@@ -9,13 +9,14 @@
 title: Tathagat Verma
 full_name: Tathagat Verma
 email: tathagatswagverma@gmail.com
-email2: tathagatv@cse.iitb.ac.in
+email2: tathagat@stanford.edu
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://tathagatv.github.io" # the base hostname & protocol for your site
 github_username:  tathagatv
 twitter_username: verma_tathagat
 linkedin_username: tathagatv
+medium_username: tathagatverma
 include: ['_pages']
 footer-links-active:
   stackoverflow: false
