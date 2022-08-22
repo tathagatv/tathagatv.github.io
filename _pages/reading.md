@@ -8,17 +8,14 @@ I enjoy reading biographies and books related to business and self-development. 
 
 ### In progress
 
-1. [Antifragile: Things that Gain from Disorder](https://www.amazon.in/gp/product/0141038225/ref=ox_sc_saved_image_9?smid=A3H3WE9M6NY1KV&psc=1)
-2. [The Lord of the Rings](https://www.amazon.in/Lord-Rings-J-R-Tolkien/dp/0008471282/ref=pd_sbs_sccl_2_5/258-9227890-9918461?pd_rd_w=cY4LY&content-id=amzn1.sym.d3163d45-cad5-462b-8a7b-a5eb87482d2c&pf_rd_p=d3163d45-cad5-462b-8a7b-a5eb87482d2c&pf_rd_r=5TGHPG7WXNESNPMKYK4Z&pd_rd_wg=A352s&pd_rd_r=e41e0e79-5abc-463f-b967-48f81efcecae&pd_rd_i=0008471282&psc=1)
-3. [Ask and It is Given: Learning to Manifest Your Desires](https://www.amazon.in/Ask-Given-Learning-Manifest-Desires/dp/1401904599/ref=sr_1_7?crid=1IXUEQPADQ7Z8&keywords=as+and+it+is+given&qid=1653728036&s=books&sprefix=as+and+it+is+given+%2Cstripbooks%2C176&sr=1-7)
-4. [Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant](https://www.amazon.in/gp/product/1625274491/ref=ox_sc_act_title_1?smid=APLYOO3IHSCW0&psc=1)
-5. [Benjamin Franklin: An American Life](https://www.amazon.in/Benjamin-Franklin-American-Walter-Isaacson/dp/074325807X)
-6. [Unlimited Power: The New Science Of Personal Achievement](https://www.amazon.in/Unlimited-Power-Science-Personal-Achievement/dp/0684845776)
-7. [Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World](https://www.amazon.in/Blockchain-Revolution-Technology-Cryptocurrencies-Changing/dp/0241237866/ref=sr_1_3?keywords=blockchain+revolution&qid=1645192990&sprefix=blockchain+%2Caps%2C193&sr=8-3)
-8. [Delivering Happiness: A Path to Profits, Passion and Purpose](https://www.amazon.in/Delivering-Happiness-Tony-Hsieh/dp/145550890X/ref=sr_1_3?keywords=delivering+happiness&qid=1658566670&s=books&smid=A1WYWER0W24N8S&sprefix=delivering+%2Cstripbooks%2C204&sr=1-3)
-9. [Only The Paranoid Survive](https://www.amazon.in/Only-Paranoid-Survive-Andrew-Grove/dp/1861975139/ref=sr_1_1?keywords=only+the+paranoid+survive&qid=1658566714&s=books&smid=A1WYWER0W24N8S&sprefix=only+the+%2Cstripbooks%2C185&sr=1-1)
-10. [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.in/No-Rules-Netflix-Culture-Reinvention/dp/1984877860)
-11. [The 48 Laws Of Power](https://www.amazon.in/Laws-Power-Robert-Greene-Collection/dp/1861972784/ref=sr_1_1?keywords=48+laws+of+power&qid=1658566826&s=books&smid=A1WYWER0W24N8S&sprefix=laws+o%2Cstripbooks%2C241&sr=1-1)
+1. [Antifragile: Things that Gain from Disorder](https://www.amazon.in/gp/product/0141038225/)
+2. [Ask and It is Given: Learning to Manifest Your Desires](https://www.amazon.in/Ask-Given-Learning-Manifest-Desires/dp/1401904599/)
+3. [Blue Ocean Strategy: How to Create Uncontested Market Space and Make the Competition Irrelevant](https://www.amazon.in/gp/product/1625274491/)
+4. [Benjamin Franklin: An American Life](https://www.amazon.in/Benjamin-Franklin-American-Walter-Isaacson/dp/074325807X)
+5. [Unlimited Power: The New Science Of Personal Achievement](https://www.amazon.in/Unlimited-Power-Science-Personal-Achievement/dp/0684845776)
+6. [Blockchain Revolution: How the Technology Behind Bitcoin and Other Cryptocurrencies is Changing the World](https://www.amazon.in/Blockchain-Revolution-Technology-Cryptocurrencies-Changing/dp/0241237866/)
+7. [Only The Paranoid Survive](https://www.amazon.in/Only-Paranoid-Survive-Andrew-Grove/dp/1861975139/)
+8. [Principles for Dealing With The Changing World Order: Why Nations Succeed or Fail](https://www.amazon.in/gp/product/1471196690/)
 
 ### Completed
 
@@ -43,16 +40,19 @@ I enjoy reading biographies and books related to business and self-development. 
 19. [The Art of Innovation: Lessons in Creativity from IDEO, America's Leading Design Firm](https://www.amazon.in/Art-Innovation-Lessons-Creativity-Americas/dp/0385499841)
 20. [Hooked: How to Build Habit-Forming Products](https://www.amazon.in/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00NW01MKM)
 21. [Principles: Life and Work](https://www.amazon.in/Principles-Life-Work-Ray-Dalio/dp/1501124021)
-22. [Sapiens: A Brief History of Humankind](https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085/ref=sr_1_2?keywords=sapiens&qid=1645193124&s=books&sprefix=sapiens%2Cstripbooks%2C183&sr=1-2)
-23. [Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future](https://www.amazon.in/Elon-Musk-Billionaire-SpaceX-Shaping/dp/0753555646/ref=sr_1_2?keywords=elon+musk+book&qid=1645193160&s=books&sprefix=elon+m%2Cstripbooks%2C186&sr=1-2)
-24. [Will](https://www.amazon.in/Will-EXPORT-Smith/dp/1529124166/ref=sr_1_1?keywords=will+smith+book&qid=1645193050&s=books&sprefix=will+%2Cstripbooks%2C227&sr=1-1)
-25. [The Law of Attraction: The Basics of the Teachings of Abraham](https://www.amazon.in/Law-Attraction-Basics-Teachings-Abraham%C2%AE/dp/1401912273/ref=sr_1_3?crid=381LUUCA1ZMN7&keywords=law+of+attraction+esther+and+jerry+hicks&qid=1653727997&s=books&sprefix=law+of+attraction+esther+and+jerry+hicks%2Cstripbooks%2C178&sr=1-3)
-26. [The Hobbit](https://www.amazon.in/Hobbit-Film-tie-J-R-R-Tolkien/dp/0008118043/ref=sr_1_2?crid=3MD1826ZDKS95&keywords=the+hobbit+book&qid=1653728314&s=books&sprefix=the+hobbit+book+%2Cstripbooks%2C185&sr=1-2)
-27. [Titan: The Life of John D. Rockefeller, Sr.](https://www.amazon.in/Titan-Life-John-Rockefeller-Sr/dp/1400077303/ref=sr_1_3?keywords=titan+book&qid=1645193205&s=books&sprefix=titan+%2Cstripbooks%2C184&sr=1-3)
+22. [Sapiens: A Brief History of Humankind](https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085/)
+23. [Elon Musk: How the Billionaire CEO of SpaceX and Tesla is Shaping our Future](https://www.amazon.in/Elon-Musk-Billionaire-SpaceX-Shaping/dp/0753555646/)
+24. [Will](https://www.amazon.in/Will-EXPORT-Smith/dp/1529124166/)
+25. [The Law of Attraction: The Basics of the Teachings of Abraham](https://www.amazon.in/Law-Attraction-Basics-Teachings-Abraham%C2%AE/dp/1401912273/)
+26. [The Hobbit](https://www.amazon.in/Hobbit-Film-tie-J-R-R-Tolkien/dp/0008118043/)
+27. [Titan: The Life of John D. Rockefeller, Sr.](https://www.amazon.in/Titan-Life-John-Rockefeller-Sr/dp/1400077303/)
+28. [No Rules Rules: Netflix and the Culture of Reinvention](https://www.amazon.in/No-Rules-Netflix-Culture-Reinvention/dp/1984877860)
+29. [The 48 Laws Of Power](https://www.amazon.in/Laws-Power-Robert-Greene-Collection/dp/1861972784/)
+30. [Delivering Happiness: A Path to Profits, Passion and Purpose](https://www.amazon.in/Delivering-Happiness-Tony-Hsieh/dp/145550890X/)
 
 ### Plan to read soon
 
-1. [Build: An Unorthodox Guide to Making Things Worth Making](https://www.amazon.in/gp/product/1787634116/ref=ox_sc_saved_image_3?smid=A27XEAVCT0ADTH&psc=1)
+1. [Build: An Unorthodox Guide to Making Things Worth Making](https://www.amazon.in/gp/product/1787634116/)
 2. [High Output Management](https://www.amazon.in/High-Output-Management-Andrew-Grove/dp/0679762884)
-3. [Meditations](https://www.amazon.in/gp/product/8175994754/ref=ox_sc_saved_image_1?smid=A1WYWER0W24N8S&psc=1)
-4. [Principles for Dealing With The Changing World Order: Why Nations Succeed or Fail](https://www.amazon.in/gp/product/1471196690/ref=ox_sc_saved_image_2?smid=A108GDP84TT7QO&psc=1)
+3. [Meditations](https://www.amazon.in/gp/product/8175994754/)
+4. [SUPERINTELLIGENCE: Paths, Dangers, Strategies](https://www.amazon.in/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/)
