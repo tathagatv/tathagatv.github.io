@@ -6,7 +6,7 @@ order: 3
 ---
 I enjoy reading biographies and books related to business and self-development. To the ones who aren't actively reading books, I strongly urge you to start reading!
 
-Below each book title, I've put a short description of the reason for reading the book and also the rating I'd give to it. I've noticed over time that reading books recommended by people you revere usually turns out to be good.
+Below each book title, I've put a short reason for reading the book and also the rating I'd give it. I've noticed over time that reading books recommended by people you revere usually turns out to be good.
 
 ### In progress
 
