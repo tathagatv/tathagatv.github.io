@@ -4,9 +4,9 @@ title: Reading
 permalink: /reading/
 order: 3
 ---
-I enjoy reading biographies and books related to business and self-development. To the ones who aren't actively reading books, I strongly urge you to start reading!
+I enjoy reading biographies and books related to business and self-development. To the ones who aren't actively reading books, I urge you to start reading!
 
-Below each book title, I've put a short reason for reading the book and also the rating I'd give it. I've noticed over time that reading books recommended by people you revere usually turns out to be good.
+Below each book title, I've put a short reason for reading the book and the rating I'd give it. I've noticed over time that reading books recommended by people you revere usually turns out to be good.
 
 ### In progress
 
@@ -16,6 +16,18 @@ Tony Robbins is an interesting person. 4/5
 Found the topic interesting and Ray Dalio is a great person. 5/5
 3. [The Inner Game of Tennis](https://www.amazon.com/gp/product/0679778314/)  
 Recommended by Bill Gates. 5/5
+4. [Build: An Unorthodox Guide to Making Things Worth Making](https://www.amazon.in/gp/product/1787634116/)  
+Tony Fadell has a great background. 5/5
+5. [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-and-Slow-audiobook/dp/B005Z9GAJG/)  
+Got it from a relative, recommended by him and Nassim Nicholas Taleb
+6. [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139169/)  
+Recommended by Bill Gates
+7. [Leadership: Six Studies in World Strategy](https://www.amazon.com/Leadership-Six-Studies-World-Strategy/dp/B09FC1G48D/)  
+Recommended by Reid Hoffman
+8. [The Vortex: Where the Law of Attraction Assembles All Cooperative Relationships](https://www.amazon.com/Vortex-Attraction-Assembles-Cooperative-Relationships/dp/1401958788/)  
+I find LOA interesting. 5/5
+9. [VC: An American History](https://www.amazon.com/VC-American-History-Tom-Nicholas/dp/0674248260/)  
+Recommended by [Aviral Bhatnagar](https://twitter.com/aviralbhat/status/1414621448568639491?s=20&t=7mIptxcPt9mtis6LsJe7Yg)
 
 ### Completed
 
@@ -28,7 +40,7 @@ One of the first books I read, wanted to read something on self-development. 5/5
 4. [How to Win Friends and Influence People](https://www.amazon.in/How-Win-Friends-Influence-People/dp/0091906350)  
 One of the first books I read, wanted to read something on self-development. 5/5
 5. [The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams & Reaching Your Destiny](https://www.amazon.in/Monk-Who-Sold-His-Ferrari/dp/817992162X)  
-wanted to read something on self-development. 3/5
+Wanted to read something on self-development. 3/5
 6. [The Innovator's Dilemma: When New Technologies Cause Great Firms to Fail](https://www.amazon.in/Innovators-Dilemma-Technologies-Management-Innovation/dp/142219602X)  
 Recommended by Steve Jobs, [Ikuo Hiraishi](https://www.linkedin.com/in/ikuohiraishi/?originalSubdomain=jp). 5/5
 7. [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.in/Atomic-Habits-James-Clear/dp/1847941834)  
@@ -42,7 +54,7 @@ Got the book at its promo event at IIT Bombay. 4/5
 11. [The Hard Thing about Hard Things: Building a Business When There are No Easy Answers](https://www.amazon.in/Hard-Thing-about-Building-Business/dp/0062273205)  
 Recommended by many entrepreneurs, Ritesh Agarwal comes to mind. Ben Horowitz is a pretty interesting person as well. 5/5
 12. [Hit Refresh: The Quest to Rediscover Microsoft’s Soul and Imagine a Better Future for Everyone](https://www.amazon.in/Hit-Refresh-Rediscover-Microsofts-Everyone/dp/000824765X)  
-Got the book as a gift during the Microsoft internship. 2/5
+Got the book as a gift in an internship. 2/5
 13. [Shoe Dog: A Memoir by the Creator of NIKE](https://www.amazon.in/Shoe-Dog-Phil-Knight/dp/1471146715)  
 One of the first books I read, was interested in reading biographies of interesting people. 5/5
 14. [The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life](https://www.amazon.in/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713)  
@@ -56,9 +68,9 @@ Liked the book title, the concept of stoicism and Ryan Holiday's videos. 5/5
 18. [You'll See It When You Believe It](https://www.amazon.in/Youll-See-When-You-Believe/dp/0099474298)  
 Book was lying around at home. 2/5
 19. [The Art of Innovation: Lessons in Creativity from IDEO, America's Leading Design Firm](https://www.amazon.in/Art-Innovation-Lessons-Creativity-Americas/dp/0385499841)  
-Got the book as a gift during the Microsoft internship. 1/5
+Got the book as a gift in an internship. 1/5
 20. [Hooked: How to Build Habit-Forming Products](https://www.amazon.in/Hooked-How-Build-Habit-Forming-Products-ebook/dp/B00NW01MKM)  
-Got the book as a gift during the Microsoft internship. 1/5
+Got the book as a gift in an internship. 1/5
 21. [Principles: Life and Work](https://www.amazon.in/Principles-Life-Work-Ray-Dalio/dp/1501124021)  
 Ray Dalio is a great person. 4/5
 22. [Sapiens: A Brief History of Humankind](https://www.amazon.in/Sapiens-Humankind-Yuval-Noah-Harari/dp/0099590085/)  
@@ -88,16 +100,26 @@ Find LOA interesting. 5/5
 
 ### Plan to read soon
 
-1. [Build: An Unorthodox Guide to Making Things Worth Making](https://www.amazon.in/gp/product/1787634116/)  
-Tony Fadell has a great background
-2. [High Output Management](https://www.amazon.in/High-Output-Management-Andrew-Grove/dp/0679762884)  
+1. [High Output Management](https://www.amazon.in/High-Output-Management-Andrew-Grove/dp/0679762884)  
 Recommended by John Doerr
-3. [Meditations](https://www.amazon.in/gp/product/8175994754/)
-4. [SUPERINTELLIGENCE: Paths, Dangers, Strategies](https://www.amazon.in/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/)
-5. [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-and-Slow-audiobook/dp/B005Z9GAJG/)  
-Got it from a relative, recommended by him and Nassim Nicholas Taleb
-6. [Leadership: Six Studies in World Strategy](https://www.amazon.com/gp/product/0593489446/)  
-Recommended by Reid Hoffman
+2. [Meditations](https://www.amazon.in/gp/product/8175994754/)  
+Recommended by Tim Ferriss, Ryan Holiday
+3. [SUPERINTELLIGENCE: Paths, Dangers, Strategies](https://www.amazon.in/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/)  
+Recommended by Bill Gates
+4. [Team of Rivals: The Political Genius of Abraham Lincoln](https://www.amazon.com/gp/product/0743270754/)  
+Recommended by Bill Gates
+5. [Stranger in a Strange Land](https://www.amazon.com/gp/product/0441788386/)  
+Recommended by Bill Gates
+6. [The Revolt of The Public and the Crisis of Authority in the New Millenium](https://www.amazon.com/gp/product/1732265143/)  
+Recommended by Marc Andreessen
+7. [The Power Law: Venture Capital and the Making of the New Future](https://www.amazon.com/gp/product/052555999X/)  
+Recommended by [Aviral Bhatnagar](https://twitter.com/aviralbhat/status/1414621448568639491?s=20&t=7mIptxcPt9mtis6LsJe7Yg)
+8. [The Mamba Mentality: How I Play](https://www.amazon.com/gp/product/0374201234/)  
+I'm a big fan of Kobe
+9. [Eleven Rings: The Soul of Success](https://www.amazon.com/gp/product/0143125346/)  
+Phil Jackson is interesting
+10. [Crossing the Chasm](https://www.amazon.com/gp/product/0062292986/)  
+Came across this book in Tony Fadell's _Build_
 
 ### Discontinued midway (didn't find them interesting)
 
