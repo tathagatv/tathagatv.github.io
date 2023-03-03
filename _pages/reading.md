@@ -14,12 +14,12 @@ Below each book title, I've put a short reason for reading the book and the rati
 Tony Robbins is an interesting person. 4/5
 2. [Principles for Dealing With The Changing World Order: Why Nations Succeed or Fail](https://www.amazon.in/gp/product/1471196690/)  
 Found the topic interesting and Ray Dalio is a great person. 5/5
-3. [The Inner Game of Tennis](https://www.amazon.com/gp/product/0679778314/)  
-Recommended by Bill Gates. 5/5
-4. [Build: An Unorthodox Guide to Making Things Worth Making](https://www.amazon.in/gp/product/1787634116/)  
-Tony Fadell has a great background. 5/5
+3. [Who Is Michael Ovitz?](https://www.amazon.com/Who-Michael-Ovitz/dp/1591845548)  
+Recommended on the Good Time Show by Aarthi and Shriram. 5/5
+4. [Body for Life: 12 Weeks to Mental and Physical Strength](https://www.amazon.com/Body-Life-Mental-Physical-Strength/dp/0060193395/)  
+Recommended by Jerry Seinfeld. 5/5
 5. [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-and-Slow-audiobook/dp/B005Z9GAJG/)  
-Got it from a relative, recommended by him and Nassim Nicholas Taleb
+Got it from a relative, recommended by him and Nassim Nicholas Taleb. 5/5
 6. [Leonardo da Vinci](https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139169/)  
 Recommended by Bill Gates
 7. [Leadership: Six Studies in World Strategy](https://www.amazon.com/Leadership-Six-Studies-World-Strategy/dp/B09FC1G48D/)  
@@ -28,6 +28,12 @@ Recommended by Reid Hoffman
 I find LOA interesting. 5/5
 9. [VC: An American History](https://www.amazon.com/VC-American-History-Tom-Nicholas/dp/0674248260/)  
 Recommended by [Aviral Bhatnagar](https://twitter.com/aviralbhat/status/1414621448568639491?s=20&t=7mIptxcPt9mtis6LsJe7Yg)
+10. [Lying](https://www.amazon.com/Lying-Sam-Harris/dp/1940051002/)  
+Recommended by Tim Ferriss
+11. [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X/)  
+Recommended by Andrew Huberman and Robert Greene is awesome
+12. [The Mamba Mentality: How I Play](https://www.amazon.com/gp/product/0374201234/)  
+I'm a big fan of Kobe. 5/5
 
 ### Completed
 
@@ -97,6 +103,10 @@ Wanted to read something about Andy Grove. 5/5
 Recommended by Vinod Khosla. 5/5
 33. [Ask and It is Given: Learning to Manifest Your Desires](https://www.amazon.in/Ask-Given-Learning-Manifest-Desires/dp/1401904599/)  
 Find LOA interesting. 5/5
+34. [The Inner Game of Tennis](https://www.amazon.com/gp/product/0679778314/)  
+Recommended by Bill Gates. 5/5
+35. [Build: An Unorthodox Guide to Making Things Worth Making](https://www.amazon.in/gp/product/1787634116/)  
+Tony Fadell has a great background. 5/5
 
 ### Plan to read soon
 
@@ -114,12 +124,14 @@ Recommended by Bill Gates
 Recommended by Marc Andreessen
 7. [The Power Law: Venture Capital and the Making of the New Future](https://www.amazon.com/gp/product/052555999X/)  
 Recommended by [Aviral Bhatnagar](https://twitter.com/aviralbhat/status/1414621448568639491?s=20&t=7mIptxcPt9mtis6LsJe7Yg)
-8. [The Mamba Mentality: How I Play](https://www.amazon.com/gp/product/0374201234/)  
-I'm a big fan of Kobe
+8. [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://www.amazon.com/gp/product/0735216371/)  
+Recommended by Chamath Palihapitiya
 9. [Eleven Rings: The Soul of Success](https://www.amazon.com/gp/product/0143125346/)  
 Phil Jackson is interesting
 10. [Crossing the Chasm](https://www.amazon.com/gp/product/0062292986/)  
 Came across this book in Tony Fadell's _Build_
+11. [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://www.amazon.com/gp/product/0812972155/)  
+Recommended by Patrick Collison
 
 ### Discontinued midway (didn't find them interesting)
 
