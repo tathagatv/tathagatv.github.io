@@ -32,8 +32,6 @@ Recommended by [Aviral Bhatnagar](https://twitter.com/aviralbhat/status/14146214
 Recommended by Tim Ferriss
 11. [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X/)  
 Recommended by Andrew Huberman and Robert Greene is awesome
-12. [The Mamba Mentality: How I Play](https://www.amazon.com/gp/product/0374201234/)  
-I'm a big fan of Kobe. 5/5
 
 ### Completed
 
@@ -107,6 +105,8 @@ Find LOA interesting. 5/5
 Recommended by Bill Gates. 5/5
 35. [Build: An Unorthodox Guide to Making Things Worth Making](https://www.amazon.in/gp/product/1787634116/)  
 Tony Fadell has a great background. 5/5
+36. [The Mamba Mentality: How I Play](https://www.amazon.com/gp/product/0374201234/)  
+I'm a big fan of Kobe. 5/5
 
 ### Plan to read soon
 
@@ -129,9 +129,23 @@ Recommended by Chamath Palihapitiya
 9. [Eleven Rings: The Soul of Success](https://www.amazon.com/gp/product/0143125346/)  
 Phil Jackson is interesting
 10. [Crossing the Chasm](https://www.amazon.com/gp/product/0062292986/)  
-Came across this book in Tony Fadell's _Build_
+Came across this book in Tony Fadell's _Build_, also recommended by Bill Gurly
 11. [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://www.amazon.com/gp/product/0812972155/)  
 Recommended by Patrick Collison
+12. [The Machiavellians: Defenders of Freedom](https://www.amazon.com/gp/product/1839013958/)  
+Recommended by Marc Andreessen, Peter Thiel
+13. [The Power Law: Venture Capital and the Making of the New Future](https://www.amazon.com/gp/product/052555999X)  
+Recommended by Aviral Bhatnagar and many VCs
+14. [Chip War](https://www.amazon.com/gp/product/1398504106/)  
+Interesting topic, recommended by Niall Ferguson
+15. [Supermoney](https://www.amazon.com/gp/product/0471786314/)  
+Recommended by Warren Buffett
+16. [Startup: A Silicon Valley Adventure](https://www.amazon.com/gp/product/B01FGMUNDA/)  
+Recommended by Bill Gurly
+17. [The Art of Seduction](https://www.amazon.com/gp/product/0142001198/)  
+Can't get enough of Robert Greene
+18. [Open: An Autobiography](https://www.amazon.com/gp/product/0307388409/)  
+Looks interesting
 
 ### Discontinued midway (didn't find them interesting)
 
