@@ -3,7 +3,8 @@ layout: page
 ---
 {% include JB/setup %}
 
-<img style="float: right; width: 25%; padding: 9px;" src=" {{ site.url }}/assets/profile_pic1.jpg">
+<!-- <img style="float: right; width: 25%; padding: 9px;" src=" {{ site.url }}/assets/profile_pic1.jpg"> -->
+<img style="float: right; width: 200px; height: 200px; padding: 9px; border-radius: 50%;" src=" {{ site.url }}/assets/224n_poster_headshot.jpg">
 
 Hi, I am Tathagat Verma, doing my MS in Computer Science at Stanford University. I've done my BTech in Computer Science and Engineering at IIT Bombay, graduated in 2022.
 
