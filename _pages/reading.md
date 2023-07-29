@@ -14,8 +14,8 @@ Below each book title, I've put a short reason for reading the book and the rati
 Tony Robbins is an interesting person. 4/5
 2. [Principles for Dealing With The Changing World Order: Why Nations Succeed or Fail](https://www.amazon.in/gp/product/1471196690/)  
 Found the topic interesting and Ray Dalio is a great person. 5/5
-3. [Who Is Michael Ovitz?](https://www.amazon.com/Who-Michael-Ovitz/dp/1591845548)  
-Recommended on the Good Time Show by Aarthi and Shriram. 5/5
+3. [The Power Law: Venture Capital and the Making of the New Future](https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X/)  
+Recommended by Aviral Bhatnagar. 5/5
 4. [Body for Life: 12 Weeks to Mental and Physical Strength](https://www.amazon.com/Body-Life-Mental-Physical-Strength/dp/0060193395/)  
 Recommended by Jerry Seinfeld. 5/5
 5. [Thinking Fast and Slow](https://www.amazon.com/Thinking-Fast-and-Slow-audiobook/dp/B005Z9GAJG/)  
@@ -107,6 +107,10 @@ Recommended by Bill Gates. 5/5
 Tony Fadell has a great background. 5/5
 36. [The Mamba Mentality: How I Play](https://www.amazon.com/gp/product/0374201234/)  
 I'm a big fan of Kobe. 5/5
+37. [Who Is Michael Ovitz?](https://www.amazon.com/Who-Michael-Ovitz/dp/1591845548)  
+Recommended on the Good Time Show by Aarthi and Shriram. 4/5
+38. [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://www.amazon.com/gp/product/0735216371/). 5/5
+Recommended by Chamath Palihapitiya
 
 ### Plan to read soon
 
@@ -122,10 +126,8 @@ Recommended by Bill Gates
 Recommended by Bill Gates
 6. [The Revolt of The Public and the Crisis of Authority in the New Millenium](https://www.amazon.com/gp/product/1732265143/)  
 Recommended by Marc Andreessen
-7. [The Power Law: Venture Capital and the Making of the New Future](https://www.amazon.com/gp/product/052555999X/)  
-Recommended by [Aviral Bhatnagar](https://twitter.com/aviralbhat/status/1414621448568639491?s=20&t=7mIptxcPt9mtis6LsJe7Yg)
-8. [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://www.amazon.com/gp/product/0735216371/)  
-Recommended by Chamath Palihapitiya
+8. [The Snowball: Warren Buffett and the Business of Life](https://www.amazon.com/Snowball-Warren-Buffett-Business-Life/dp/0553384619/)  
+Heard about it on the Founders podcast
 9. [Eleven Rings: The Soul of Success](https://www.amazon.com/gp/product/0143125346/)  
 Phil Jackson is interesting
 10. [Crossing the Chasm](https://www.amazon.com/gp/product/0062292986/)  
