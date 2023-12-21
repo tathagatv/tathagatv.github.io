@@ -32,12 +32,15 @@ Recommended by [Aviral Bhatnagar](https://twitter.com/aviralbhat/status/14146214
 Recommended by Tim Ferriss
 11. [Mastery](https://www.amazon.com/Mastery-Robert-Greene/dp/014312417X/)  
 Recommended by Andrew Huberman and Robert Greene is awesome
-12. [Eleven Rings: The Soul of Success](https://www.amazon.com/gp/product/0143125346/)  
-Phil Jackson is interesting
+12. [The Return to the Little Kingdom: Steve Jobs, The Creation of Apple and How it Changed the World](https://www.amazon.com/Return-Little-Kingdom-Creation-Changed/dp/B004CWGZXI/)  
+Mike Moritz is an interesting person
 13. [Range: Why Generalists Triumph in a Specialized World](https://www.amazon.com/Range-David-Epstein-audiobook/dp/B07N6MPWLS)  
 Recommenede by Bill Gates. 5/5
 14. [High Growth Handbook: Scaling Startups from 10 to 10,000 People](https://www.amazon.com/gp/product/1732265100/)  
 Found it in the Scale AI office, and Elad is interesting. 5/5
+15. [Michael Jordan: The Life](https://www.amazon.com/Michael-Jordan-Roland-Lazenby-audiobook/dp/B00JFEX93C/)  
+The Founders episode was amazing
+16. [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271781)
 
 ### Completed
 
@@ -115,12 +118,17 @@ Tony Fadell has a great background. 5/5
 I'm a big fan of Kobe. 5/5
 37. [Who Is Michael Ovitz?](https://www.amazon.com/Who-Michael-Ovitz/dp/1591845548)  
 Recommended on the Good Time Show by Aarthi and Shriram. 4/5
-38. [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://www.amazon.com/gp/product/0735216371/). 5/5
-Recommended by Chamath Palihapitiya
+38. [Thinking in Bets: Making Smarter Decisions When You Don't Have All the Facts](https://www.amazon.com/gp/product/0735216371/)  
+Recommended by Chamath Palihapitiya. 5/5
 39. [The Power Law: Venture Capital and the Making of the New Future](https://www.amazon.com/Power-Law-Venture-Capital-Making/dp/052555999X/)  
 Recommended by Aviral Bhatnagar. 5/5
-40. [The Everything Store: Jeff Bezos and the Age of Amazon](https://www.amazon.com/dp/B00FJFJOLC)
+40. [The Everything Store: Jeff Bezos and the Age of Amazon](https://www.amazon.com/dp/B00FJFJOLC)  
 The Founders episode was amazing. 5/5
+41. [Eleven Rings: The Soul of Success](https://www.amazon.com/gp/product/0143125346/)  
+Phil Jackson is interesting. 5/5
+42. [Total Recall: My Unbelievably True Life Story](https://www.amazon.com/Total-Recall-Unbelievably-True-Story/dp/1451662440)  
+The Founders episode was amazing. 5/5
+
 
 ### Plan to read soon
 
@@ -136,26 +144,25 @@ Recommended by Bill Gates
 Recommended by Bill Gates
 6. [The Revolt of The Public and the Crisis of Authority in the New Millenium](https://www.amazon.com/gp/product/1732265143/)  
 Recommended by Marc Andreessen
+7. [How Google Works](https://www.amazon.com/gp/product/1455582328/)  
+Recommended by Aravind Srinivas
 8. [The Snowball: Warren Buffett and the Business of Life](https://www.amazon.com/Snowball-Warren-Buffett-Business-Life/dp/0553384619/)  
 Heard about it on the Founders podcast
-9. [The Return to the Little Kingdom: Steve Jobs, The Creation of Apple and How it Changed the World](https://www.amazon.com/Return-Little-Kingdom-Creation-Changed/dp/B004CWGZXI/)
+9. [Open: An Autobiography](https://www.amazon.com/gp/product/0307388409/)  
+Looks interesting
 10. [Crossing the Chasm](https://www.amazon.com/gp/product/0062292986/)  
 Came across this book in Tony Fadell's _Build_, also recommended by Bill Gurly
 11. [Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture](https://www.amazon.com/gp/product/0812972155/)  
 Recommended by Patrick Collison
 12. [The Machiavellians: Defenders of Freedom](https://www.amazon.com/gp/product/1839013958/)  
 Recommended by Marc Andreessen, Peter Thiel
-13. [The Goal: A Process of Ongoing Improvement](https://www.amazon.com/Goal-Process-Ongoing-Improvement/dp/0884271781)
-14. [Chip War](https://www.amazon.com/gp/product/1398504106/)  
+13. [Chip War](https://www.amazon.com/gp/product/1398504106/)  
 Interesting topic, recommended by Niall Ferguson
-15. [Supermoney](https://www.amazon.com/gp/product/0471786314/)  
+14. [Supermoney](https://www.amazon.com/gp/product/0471786314/)  
 Recommended by Warren Buffett
-16. [Startup: A Silicon Valley Adventure](https://www.amazon.com/gp/product/B01FGMUNDA/)  
+15. [Startup: A Silicon Valley Adventure](https://www.amazon.com/gp/product/B01FGMUNDA/)  
 Recommended by Bill Gurly
-17. [Open: An Autobiography](https://www.amazon.com/gp/product/0307388409/)  
-Looks interesting
-18. [Michael Jordan: The Life](https://www.amazon.com/Michael-Jordan-Roland-Lazenby-audiobook/dp/B00JFEX93C/)  
-The Founders episode was amazing
+
 
 ### Discontinued midway (didn't find them interesting)
 
